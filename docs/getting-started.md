@@ -41,4 +41,6 @@ CONFIGS PLACEHOLDER
 
 - Thank you for submitting a pull request to our repository. If this change is based on an existing issue, please reference that issue in the pull request comment using Closes #x where X is the issue number.
 
-- Thank you for your contribution.
+- Thank you for your contribution. 
+
+- We are glad you are here.
