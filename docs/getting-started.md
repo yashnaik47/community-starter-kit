@@ -41,4 +41,4 @@ firstPRMergeComment: >
 
 - Thank you for your contribution. 
 
-- We are glad you are here.
+- We are glad you are here. Thanks.
