@@ -36,3 +36,7 @@ firstPRMergeComment: >
 ### Example Messages
 
 CONFIGS PLACEHOLDER
+
+- Welcome to the world of GitHub.
+
+- Never seen such good work. Thanks.
